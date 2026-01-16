@@ -1,13 +1,12 @@
 # TechPulse - Technology News Portal (BIT29)
 
 **Course**: Web Design & Development (PHP)  
-**Class**: BIT29  
+**Class**: BIT29-B 
 **Submission Date**: January 12, 2026
 
 ## Team Members
-1.  **Abdullahi Mohamed Abdi**
-2.  **Ahmed Abdihakin Ahmed**
-3.  **Abdiqani Muse Mohamed**
+1.  **Liban abdikafi xasan**
+2.  **Abdirahman yusuf ali**
 
 ---
 
